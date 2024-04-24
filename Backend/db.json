@@ -1,0 +1,164 @@
+{
+  "mehsul": [
+    {
+      "title": "Your pictures on the theme of 'signs of spring'",
+      "image": "/Frontend/assets/imgs/editorPicks1.jpg",
+      "description": "A selection of striking images from our readers around the world.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "The beach where people keep finding human bones",
+      "price": 999.99,
+      "description": "Human remains have been discovered multiple times along one stretch of Welsh coastline.",
+      "category": "electronics",
+      "image": "/Frontend/assets/imgs/editorPicks2.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": "3",
+      "title": "How Taylor Swift captured modern dating despair",
+      "price": 999.99,
+      "description": "From exes who wasted our time, to comfort-eating after a breakup. We've all been there and so has Swift.",
+      "category": "electronics",
+      "image": "/Frontend/assets/imgs/editorPicks3.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    }
+  ],
+  "greatread": [
+    {
+      "id": "1",
+      "title": "12 stunning buildings that bring nature inside",
+      "price": 109.95,
+      "description": "A new book showcases projects around the globe that offer a way forward for building with nature – from an office farm in Vietnam to rammed-earth villas in the Costa Rican jungle.",
+      "category": "men's clothing",
+      "image": "/Frontend/assets/imgs/greatReads1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "The rise and fall and possible rise of the oyster",
+      "price": 999.99,
+      "description": "As the US leapfrogged through industrialisation, many of its urban workers were fed on a modern delicacy: oysters. How did this shellfish go from fast food to luxury?",
+      "category": "electronics",
+      "image": "/Frontend/assets/imgs/greatReads2.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    }
+  ],
+  "science.health": [
+    {
+      "id": "1",
+      "title": "Does 'zombie deer disease' pose risks for humans?",
+      "price": 109.95,
+      "description": "There are growing concerns that chronic wasting disease may be able to jump the species barrier with a possible link to Creutzfeldt-Jakob disease.",
+      "category": "men's clothing",
+      "image": "/Frontend/assets/imgs/sc.health1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "'People are blamed if they have cancer'",
+      "price": 999.99,
+      "description": "Women with south Asian heritage on the adverse reactions they get from other people after diagnosis.",
+      "category": "electronics",
+      "image": "/Frontend/assets/imgs/sc.health2.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    }
+  ],
+  "newsletters": [
+    {
+      "id": "1",
+      "title": "'My hell in Myanmar cyber slavery camp'",
+      "price": 109.95,
+      "description": "Ravi was held in a labour camp run by Chinese-speaking gangsters, forced to run romance scams.",
+      "category": "men's clothing",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0dee/live/b5d30200-fe44-11ee-a9f7-4d961743aa47.png.webp",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "The beach where people keep finding human bones",
+      "price": 999.99,
+      "description": "Human remains have been discovered multiple times along one stretch of Welsh coastline.",
+      "category": "electronics",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/adea/live/086a5620-fe41-11ee-ad4c-db0357545697.jpg.webp",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    }
+  ],
+  "sport": [
+    {
+      "id": "1",
+      "title": "'My hell in Myanmar cyber slavery camp'",
+      "price": 109.95,
+      "description": "Ravi was held in a labour camp run by Chinese-speaking gangsters, forced to run romance scams.",
+      "category": "men's clothing",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0dee/live/b5d30200-fe44-11ee-a9f7-4d961743aa47.png.webp",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "The beach where people keep finding human bones",
+      "price": 999.99,
+      "description": "Human remains have been discovered multiple times along one stretch of Welsh coastline.",
+      "category": "electronics",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/adea/live/086a5620-fe41-11ee-ad4c-db0357545697.jpg.webp",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    }
+  ],
+  "example": [
+    {
+      "id": "1",
+      "title": "'My hell in Myanmar cyber slavery camp'",
+      "price": 109.95,
+      "description": "Ravi was held in a labour camp run by Chinese-speaking gangsters, forced to run romance scams.",
+      "category": "men's clothing",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0dee/live/b5d30200-fe44-11ee-a9f7-4d961743aa47.png.webp",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "The beach where people keep finding human bones",
+      "price": 999.99,
+      "description": "Human remains have been discovered multiple times along one stretch of Welsh coastline.",
+      "category": "electronics",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/adea/live/086a5620-fe41-11ee-ad4c-db0357545697.jpg.webp",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    }
+  ]
+}
