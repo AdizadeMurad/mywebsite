@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "title": "How Taylor Swift captured modern dating despair",
+      "title": "'How Taylor Swift captured modern dating despair'",
       "price": 999.99,
       "description": "From exes who wasted our time, to comfort-eating after a breakup. We've all been there and so has Swift.",
       "category": "electronics",
@@ -46,7 +46,7 @@
     },
     {
       "id": "2",
-      "title": "The rise and fall and possible rise of the oyster",
+      "title": "'The rise and fall and possible rise of the oyster'",
       "price": 999.99,
       "description": "As the US leapfrogged through industrialisation, many of its urban workers were fed on a modern delicacy: oysters. How did this shellfish go from fast food to luxury?",
       "category": "electronics",
@@ -109,14 +109,14 @@
       }
     }
   ],
-  "sport": [
+  "culturelatestnews": [
     {
       "id": "1",
-      "title": "'My hell in Myanmar cyber slavery camp'",
+      "title": "'Laurence Fox told to pay £180,000 in libel damages'",
       "price": 109.95,
-      "description": "Ravi was held in a labour camp run by Chinese-speaking gangsters, forced to run romance scams.",
+      "description": "Mrs Justice Collins Rice says the actor's comments were 'gross, groundless and indefensible'.",
       "category": "men's clothing",
-      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0dee/live/b5d30200-fe44-11ee-a9f7-4d961743aa47.png.webp",
+      "image": "/Frontend/assets/imgs/l.fox.jpg",
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -124,25 +124,37 @@
     },
     {
       "id": "2",
-      "title": "The beach where people keep finding human bones",
+      "title": "Critics rave about new millennial rom com musical",
       "price": 999.99,
-      "description": "Human remains have been discovered multiple times along one stretch of Welsh coastline.",
+      "description": "Two Strangers tells the story of an optimistic Brit who meets a tired New Yorker ahead of a wedding.",
       "category": "electronics",
-      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/adea/live/086a5620-fe41-11ee-ad4c-db0357545697.jpg.webp",
+      "image": "/Frontend/assets/imgs/critics.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": "3",
+      "title": "Zoe Ball announces mum's death after 'cancer diagnosis'",
+      "price": 999.99,
+      "description": "The 53-year-old's says her mother, Julia Peckham, taught her to 'love unconditionally'.",
+      "category": "electronics",
+      "image": "/Frontend/assets/imgs/zoeball.jpg",
       "rating": {
         "rate": 2.2,
         "count": 140
       }
     }
   ],
-  "example": [
+  "moreinnovation": [
     {
       "id": "1",
-      "title": "'My hell in Myanmar cyber slavery camp'",
+      "title": "'Grindr sued for allegedly revealing users' HIV status'",
       "price": 109.95,
-      "description": "Ravi was held in a labour camp run by Chinese-speaking gangsters, forced to run romance scams.",
+      "description": "The LGBTQ+ dating app is being sued in a class action lawsuit over allegedly misusing users' data.",
       "category": "men's clothing",
-      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0dee/live/b5d30200-fe44-11ee-a9f7-4d961743aa47.png.webp",
+      "image": "/Frontend/assets/imgs/grindr.jpg",
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -150,11 +162,23 @@
     },
     {
       "id": "2",
-      "title": "The beach where people keep finding human bones",
+      "title": "'EU may suspend money-for-views TikTok feature'",
       "price": 999.99,
-      "description": "Human remains have been discovered multiple times along one stretch of Welsh coastline.",
+      "description": "The feature, which pays users to go on TikTok, could be temporarily suspended as early as Thursday.",
       "category": "electronics",
-      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/adea/live/086a5620-fe41-11ee-ad4c-db0357545697.jpg.webp",
+      "image": "/Frontend/assets/imgs/eutiktok.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": "3",
+      "title": "'Three-year-olds groomed online, charity warns'",
+      "price": 999.99,
+      "description": "IWF says many were likely filmed remotely while using phones or other handheld devices at home.",
+      "category": "electronics",
+      "image": "/Frontend/assets/imgs/iwf.jpg",
       "rating": {
         "rate": 2.2,
         "count": 140
